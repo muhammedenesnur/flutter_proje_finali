@@ -1,0 +1,22 @@
+[
+  {
+    "brand": "Nike",
+    "size": 42,
+    "price": 100.0
+  },
+  {
+    "brand": "Adidas",
+    "size": 40,
+    "price": 90.0
+  },
+  {
+    "brand": "Puma",
+    "size": 44,
+    "price": 110.0
+  },
+  {
+    "brand": "Reebok",
+    "size": 41,
+    "price": 95.0}
+    
+]

@@ -1,0 +1,15 @@
+{
+    "home": {
+        "title": "Anasayfa",
+        "pick_image": "Resim Seç"
+    },
+    "shoes": {
+        "title": "Ayakkabılar"
+    },
+    "post": {
+        "title": "Ürünler"
+    },
+     "onboarding": {
+        "title": "Hoşgeldiniz"
+    }
+}

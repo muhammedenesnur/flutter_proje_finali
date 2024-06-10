@@ -1,0 +1,6 @@
+{
+  "title": "Welcome to MyApp",
+  "description": "This is a sample splash screen.",
+  "image": "assets/lottie/lottie_splash.json",
+  "backgroundColor": "#ffffff"
+}

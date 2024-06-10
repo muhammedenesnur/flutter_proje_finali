@@ -1,0 +1,15 @@
+{
+    "home": {
+        "title": "Home",
+        "pick_image": "Choose an image"
+    },
+    "shoes": {
+        "title": "Shoes"
+    },
+    "products": {
+        "title": "Products"
+    },
+    "onboarding": {
+        "title": "Welcome"
+    }
+}
